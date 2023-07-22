@@ -32,6 +32,12 @@ ______
 git clone https://github.com/AlizonCaetano/foodexplorer-client.git
 ```
 
+### Acesse a visualização de administrador do restaurante com este login
+```bash
+E-mail: admin@foodexplorer.com
+Senha: 123
+```
+
 ### Executando o projeto
 ```bash
 # Instale as dependências necessárias
@@ -47,7 +53,7 @@ $ npm run dev
 _________
 Este FrontEnd foi hospedado diretamente no Netlify. 
 <br>
-O Render é um serviço gratuíto então é normal que ao utilizar haja um delay de cerca de 1 minuto para acordar da hibernação, caso fique 15 minutos sem utilizar o serviço ele voltará para hibernação.
+O backend desta aplicação foi hospedada em um serviço gratuito chamado Render, então é normal que ao utilizar haja um delay de cerca de 1 minuto para acordar da hibernação, caso fique 15 minutos sem utilizar o serviço ele voltará para hibernação.
 <br>
 Aguarde e em instantes o serviço passará a rodar.
 <br>
