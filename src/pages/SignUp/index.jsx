@@ -20,6 +20,7 @@ export function SignUp(){
          api.post('/user', { name, email, password })
         .then(()=> {
             alert('User register sucessfull!')
+            navigate('/')
         })
         .catch(err => {
             console.log(err)
