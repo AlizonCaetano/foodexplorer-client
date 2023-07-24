@@ -8,6 +8,7 @@ import { ButtonText } from '../../components/ButtonText'
 import { Link } from "react-router-dom"
 
 import { useState } from 'react'
+import { useNavigate } from 'react-router-dom'
 
 import { api } from '../../services/api'
 
@@ -15,6 +16,8 @@ export function SignUp(){
     const [ name, setName ] = useState('')
     const [ email, setEmail ] = useState('')
     const [ password, setPassword ] = useState('')
+
+    const navigate = useNavigate()
 
     function handleSignUp() {
          api.post('/user', { name, email, password })
