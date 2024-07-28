@@ -50,11 +50,5 @@ $ npm run dev
 [http://localhost:5173](http://localhost:5173)
 
 
-_________
-Este FrontEnd foi hospedado diretamente no Netlify. 
-<br>
-O backend desta aplicação foi hospedada em um serviço gratuito chamado Render, então é normal que ao utilizar haja um delay de cerca de 1 minuto para acordar da hibernação, caso fique 15 minutos sem utilizar o serviço ele voltará para hibernação.
-<br>
-Aguarde e em instantes o serviço passará a rodar.
-<br>
+
 <br>
