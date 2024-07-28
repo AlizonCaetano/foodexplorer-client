@@ -58,4 +58,3 @@ O backend desta aplicação foi hospedada em um serviço gratuito chamado Render
 Aguarde e em instantes o serviço passará a rodar.
 <br>
 <br>
-[Clique aqui para acessar aplicação online](https://beta-foodexplorer.netlify.app/)
