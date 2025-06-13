@@ -4,12 +4,7 @@ Será possivel criar uma conta e acessar a plataforma, também será possivel vi
 O acesso de administrador permite que seja visualizado, pesquisado, criado, editado e excluir qualquer prato do restaurante.
 
 ## 🎨 Sobre o layout
-O layout foi concebido em mobile-first, ou seja, foi desenvolvido pensando no layout de smartphones e depois adaptado ao desktop.
-
-#### View Mobile
-![image](https://github.com/AlizonCaetano/foodexplorer-client/assets/78568924/3c3f1c63-ab5c-45d7-80bc-a731d6c3dbac)
-![image](https://github.com/AlizonCaetano/foodexplorer-client/assets/78568924/69d4eea8-3a30-4eca-962a-b7a8be69a167)
-![image](https://github.com/AlizonCaetano/foodexplorer-client/assets/78568924/f1e5286c-9c16-4af3-b47a-2275e374db6d)
+O layout foi concebido em mobile-first.
 
 #### View Desktop
 ![image](https://github.com/AlizonCaetano/foodexplorer-client/assets/78568924/4f36d8e0-1c52-4822-bb44-4cded5c74936)
@@ -35,7 +30,7 @@ git clone https://github.com/AlizonCaetano/foodexplorer-client.git
 ### Acesse a visualização de administrador do restaurante com este login
 ```bash
 E-mail: admin@foodexplorer.com
-Senha: 123
+Senha: 123456
 ```
 
 ### Executando o projeto
